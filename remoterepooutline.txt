@@ -1,0 +1,8 @@
+1. Created GitHub basic_repo
+2. Created basic_repo folder
+3. Git init
+4. Added index.html and styles.css
+5. In the folder, git add .
+6. git commit -m "Initializing repo"
+7. git remote add origin https://github.com/ethan-seo/basic_repo.git
+8. git push origin master
